@@ -1,7 +1,7 @@
 ### <div align="center">Greetings, My name is Psalmer Ephraim M. Abalon</div>  
   
 
-#### <div align="center">4th Year BSIT Student at New Era University, QC | Aspiring SOC Analyst 🔎</div>  
+ <div align="center">4th Year BSIT Student at New Era University, QC | Aspiring SOC Analyst 🔎</div>  
   
 
 - 🏢 Currently working as an IT Support Intern under SOC for SD Solutions IT Outsourcing, Inc.  
