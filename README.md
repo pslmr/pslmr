@@ -102,5 +102,3 @@ Datacamp, September 03, 2023
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
